@@ -1,0 +1,12 @@
+# Entorno virtual y cachés de Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebooks y checkpoints
+.ipynb_checkpoints/
+
+# Archivos temporales y del sistema
+.DS_Store
+*.log
